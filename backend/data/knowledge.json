@@ -1,0 +1,170 @@
+[
+  {
+    "category": "curfew_complete",
+    "content": "Hostel curfew is strictly enforced. Girls must return to hostel by 8:30 PM. Boys must enter the main gate by 9:00 PM and hostel by 9:30 PM. Late entry is not allowed without prior permission from the warden."
+  },
+  {
+    "category": "attendance",
+    "content": "Hostel attendance is mandatory every night between 9:00 PM and 10:15 PM through biometric systems. In some hostels, attendance may extend until 10:30 PM. Missing attendance leads to penalties and possible parent notification."
+  },
+  {
+    "category": "biometric_system",
+    "content": "Biometric systems are used to track student movement and attendance. Authorities can check whether a student is inside or outside the campus at any time."
+  },
+  {
+    "category": "day_movement",
+    "content": "Students are free to move inside campus during daytime. Leaving campus during the day is allowed without formal permission before evening curfew."
+  },
+  {
+    "category": "outing_weekday",
+    "content": "On working days, students are allowed outing once per day during non-class hours for approximately 2 hours. They must return before 7:00 PM at the main gate and 8:30 PM at the hostel."
+  },
+  {
+    "category": "outing_weekend",
+    "content": "On weekends and institutional holidays, students are allowed outing once per day for approximately 4 hours, subject to curfew timings."
+  },
+  {
+    "category": "overnight_leave",
+    "content": "Overnight stay outside campus requires prior permission from the warden and parental consent. Students must submit expected return date."
+  },
+  {
+    "category": "first_year_rules",
+    "content": "First-year students are not allowed to leave campus for the first 2 to 3 months after admission and are subject to stricter monitoring."
+  },
+  {
+    "category": "girls_rules",
+    "content": "Girls hostels have stricter rules including earlier curfew at 8:30 PM, restricted outing, mandatory parental consent for leaves, and stricter monitoring by wardens."
+  },
+  {
+    "category": "early_morning_movement",
+    "content": "Boys are allowed to leave hostel from 5:30 AM for gym or sports activities. Girls are allowed to leave only after 6:00 AM."
+  },
+  {
+    "category": "night_pass",
+    "content": "Students staying late for academic work, lab, club activities, or library must obtain a night pass or night slip approved by faculty or warden."
+  },
+  {
+    "category": "library",
+    "content": "The library is open until 12:00 AM. Students returning late must carry a valid night slip to re-enter hostel."
+  },
+  {
+    "category": "silence_hours",
+    "content": "Silence hours are enforced from 9:00 PM to 6:00 AM. Students must avoid noise, music, and gatherings during this time."
+  },
+  {
+    "category": "party_rules",
+    "content": "Birthday celebrations and parties inside hostel rooms or corridors are not allowed, especially during silence hours."
+  },
+  {
+    "category": "room_rules",
+    "content": "Students must stay only in their allotted rooms. Staying in other rooms or unauthorized shifting is not allowed."
+  },
+  {
+    "category": "visitors",
+    "content": "Visitors and non-VITians are not allowed inside hostel premises. Opposite gender interaction is allowed only in designated visiting areas."
+  },
+  {
+    "category": "laundry",
+    "content": "Students can give a maximum of 25 clothes per laundry cycle. Each student is allowed a total of 44 laundry washes per academic year."
+  },
+  {
+    "category": "mess_full",
+    "content": "Hostel mess timings are fixed. Breakfast is from 7:00 AM to 9:00 AM, Lunch is from 12:00 PM to 2:00 PM, Snacks are from 4:30 PM to 6:15 PM, and Dinner is from 7:00 PM to 9:00 PM."
+  },
+  {
+    "category": "mess_breakfast",
+    "content": "Breakfast is served from 7:00 AM to 9:00 AM."
+  },
+  {
+    "category": "mess_lunch",
+    "content": "Lunch is served from 12:00 PM to 2:00 PM."
+  },
+  {
+    "category": "mess_snacks",
+    "content": "Snacks are served from 4:30 PM to 6:15 PM."
+  },
+  {
+    "category": "mess_dinner",
+    "content": "Dinner is served from 7:00 PM to 9:00 PM."
+  },
+  {
+    "category": "emergency",
+    "content": "In case of any emergency, students must immediately contact the hostel warden or assistant warden."
+  },
+  {
+    "category": "alcohol",
+    "content": "Alcohol consumption, possession, or entering campus in a drunken state is strictly prohibited and may lead to suspension."
+  },
+  {
+    "category": "drugs",
+    "content": "Use, possession, or distribution of drugs or narcotics leads to immediate expulsion."
+  },
+  {
+    "category": "smoking",
+    "content": "Smoking inside hostel premises is strictly prohibited and attracts penalties."
+  },
+  {
+    "category": "ragging",
+    "content": "Ragging or harassment of any kind leads to immediate expulsion."
+  },
+  {
+    "category": "violence",
+    "content": "Fighting or causing injury leads to fines, suspension, or expulsion depending on severity."
+  },
+  {
+    "category": "cybercrime",
+    "content": "Cybercrime or defaming the institute leads to expulsion."
+  },
+  {
+    "category": "theft",
+    "content": "Theft or stealing results in suspension from the institute."
+  },
+  {
+    "category": "appliances",
+    "content": "Electrical appliances such as heaters, kettles, induction stoves, and irons are not allowed in hostel rooms."
+  },
+  {
+    "category": "cooking",
+    "content": "Cooking inside hostel rooms is strictly prohibited."
+  },
+  {
+    "category": "vehicles",
+    "content": "Motor vehicles are not allowed inside hostel premises. Only bicycles are permitted."
+  },
+  {
+    "category": "id_card",
+    "content": "Students must carry their ID card at all times. Entry without ID leads to penalties."
+  },
+  {
+    "category": "late_entry_penalty",
+    "content": "Late entry without permission leads to fines starting from Rs.100 and increasing with repeated violations."
+  },
+  {
+    "category": "attendance_penalty",
+    "content": "Missing hostel attendance may result in penalties, suspension of outing privileges, and parent notification."
+  },
+  {
+    "category": "outing_penalty",
+    "content": "Repeated violation of outing rules leads to suspension of outing privileges and disciplinary action."
+  },
+  {
+    "category": "awol",
+    "content": "Absent without leave leads to heavy penalties and possible suspension."
+  },
+  {
+    "category": "damage_property",
+    "content": "Damaging hostel or institute property leads to fines and compensation charges."
+  },
+  {
+    "category": "disciplinary",
+    "content": "Serious violations can lead to suspension, expulsion, and loss of privileges such as placements or scholarships."
+  },
+  {
+    "category": "vacation",
+    "content": "Students are not allowed to stay in hostel during vacations unless they have academic work."
+  },
+  {
+    "category": "hostel_purpose",
+    "content": "Hostels are meant for academic focus, discipline, and maintaining a proper study environment."
+  }
+]
